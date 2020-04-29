@@ -1,7 +1,8 @@
 .jumbotron-img{
       padding-bottom:0px;
-      background-image: url("../imgs/190124_Tim_Ryan_Wilkie.jpg");
+      background-image: url("../imgs/rwanda.jpg");
+      height: 300px;
       background-size: cover;
       background-repeat: no-repeat;
-      background-position: center;
+      background-position: 50% 40%
       }
